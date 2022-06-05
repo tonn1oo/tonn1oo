@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tonn1oo&theme=solarized_dark)
 
-### Contacts
-### Contacts
-[![Telegram](images/Telegram1.png)](https://t.me/tonnioo) 
+[![Telegram](images/Telegram1.png)](https://t.me/tonnioo)\
 [![Email](images/Gmail_Icon.png)](mailto:ant.vlasov.87@gmail.com)
 
