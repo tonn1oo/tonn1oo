@@ -1,4 +1,5 @@
-### Hello world 🖖
+### hi 🖖 I'm Anton and soon I will become a cool qa automation engineer
+Let's go 
 
 
 <!--
@@ -19,4 +20,9 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonn1oo&show_icons=true&theme=solarized-dark)](https://github.com/Tonn1oo/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tonn1oo&theme=solarized_dark)
+
+### Contacts
+### Contacts
+[![Telegram](images/Telegram1.png)](https://t.me/tonnioo) 
+[![Email](images/Gmail_Icon.png)](mailto:ant.vlasov.87@gmail.com)
 
