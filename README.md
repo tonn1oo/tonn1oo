@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonn1oo&layout=compact)](https://github.com/Tonn1oo/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tonn1oo&theme=solarized_dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
