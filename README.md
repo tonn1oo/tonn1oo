@@ -1,4 +1,4 @@
-### hi 🖖 I'm Anton and soon I will become a cool qa automation engineer
+### Hello friends 🖖 I'm Anton and soon I will become a cool qa automation engineer
 Let's go 
 
 
