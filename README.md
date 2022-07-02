@@ -1,5 +1,5 @@
 # Hello friends 🖖
-## I'm Anton and soon I will become a cool qa automation engineer
+## I'm Anton
 ## Let's go ⚡
 
 
