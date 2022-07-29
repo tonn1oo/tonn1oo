@@ -1,7 +1,7 @@
 # Hello friends 🖖
 ## I'm Anton
 ## Let's go ⚡
-##❤️ Happy Pythoning! 🐍 
+## ❤️ Happy Pythoning! 🐍 
 
 
 
